@@ -1,5 +1,5 @@
 <h1>Ads page - Express</h1>
-<p>A ads website project, where the user can post a new ad and see approved ads, and a 
+<p>Ads website project, where the user can post a new ad and see approved ads, and a 
   login option for admins, who can approve and delete ads.
 This project was made with Express.js routing.</p>
 
