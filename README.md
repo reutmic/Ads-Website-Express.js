@@ -1,7 +1,7 @@
 <h1>Ads page - Express</h1>
 <p>Ads website project, where the user can post a new ad and see approved ads, and a 
   login option for admins, who can approve and delete ads.
-This project was made with Express.js routing.</p>
+This project was made with Express.js.</p>
 
 <p>For admin login: username: 'admin', password: 'admin'.</p>
 
